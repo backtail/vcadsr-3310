@@ -1,6 +1,7 @@
 # vcadsr 3310
 8HP Eurorack module
-CV modifier
+
+Voltage Contralled Envelope Generator
 
 ### Render
 ![](render.png) 
